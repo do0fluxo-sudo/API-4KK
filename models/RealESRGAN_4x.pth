@@ -1,0 +1,2 @@
+mkdir -p models
+wget https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5/RealESRGAN_x4plus.pth -O models/RealESRGAN_x4.pth
