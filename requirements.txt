@@ -1,9 +1,6 @@
 fastapi
 uvicorn
-requests
-pillow
-numpy
 torch
-realesrgan
-basicsr
-gfpgan
+Pillow
+requests
+git+https://github.com/xinntao/Real-ESRGAN.git
